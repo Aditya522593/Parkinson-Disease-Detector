@@ -1,2 +1,2 @@
-# Parkinson-Disease-Detector and Driver Drowsiness Detector
+# Parkinson-Disease-Detector, Driver Drowsiness Detector
 A Data Science Project
